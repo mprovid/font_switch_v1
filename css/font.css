@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'opendyslexic3regular';
+	src: url('../font/opendyslexic3-regular-webfont.woff2') format('woff2'),
+		 url('../font/opendyslexic3-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'opendyslexic3bold';
+	src: url('opendyslexic3-bold-webfont.woff2') format('woff2'),
+		 url('opendyslexic3-bold-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	}
+#dyslexiafont {
+		font-family: 'opendyslexic3regular';
+	}
